@@ -25,24 +25,31 @@ const MASTER = {
   ],
 
   staf: [
-    { nama: 'Lisa Trimurti C.D., S.Kep', jabatan: 'Kepala Ruangan', ruangan: 'Ruang Irna 3' },
-    { nama: 'Dina Akmarina S., S.Kep', jabatan: 'Perawat Pelaksana', ruangan: 'Ruang Irna 3' },
-    { nama: 'Nony Kristianda, S.Kep', jabatan: 'Perawat Pelaksana', ruangan: 'Ruang Irna 3' },
-    { nama: 'Hansa Nur Halina, S.Kep', jabatan: 'Kepala Ruangan', ruangan: 'Ruang Irna 4' },
-    { nama: 'Khemal Maulana, S.Kep', jabatan: 'Perawat Pelaksana', ruangan: 'Ruang Irna 4' },
-    { nama: 'Norviasita Dwi Hariyani, S.Kep', jabatan: 'Perawat Pelaksana', ruangan: 'Ruang Irna 4' },
-    { nama: 'Nabilla Syahwa Aryanto, S.Kep', jabatan: 'Kepala Ruangan', ruangan: 'Ruang Irna 5' },
-    { nama: 'Lisa Trimurti C.D., S.Kep', jabatan: 'Perawat Pelaksana', ruangan: 'Ruang Irna 5' },
-    { nama: 'Dina Akmarina S., S.Kep', jabatan: 'Perawat Pelaksana', ruangan: 'Ruang Irna 5' },
-    { nama: 'Nony Kristianda, S.Kep', jabatan: 'Kepala Ruangan', ruangan: 'Ruang Irna 6' },
-    { nama: 'Hansa Nur Halina, S.Kep', jabatan: 'Perawat Pelaksana', ruangan: 'Ruang Irna 6' },
-    { nama: 'Khemal Maulana, S.Kep', jabatan: 'Kepala Ruangan', ruangan: 'Ruang Irna 3' },
-    { nama: 'Norviasita Dwi Hariyani, S.Kep', jabatan: 'Perawat Pelaksana', ruangan: 'Ruang Irna 3' },
-    { nama: 'Nabilla Syahwa Aryanto, S.Kep', jabatan: 'Kepala Ruangan', ruangan: 'Ruang Irna 4' },
-    { nama: 'Lisa Trimurti C.D., S.Kep', jabatan: 'Kepala Ruangan', ruangan: 'Ruang Irna 5' },
-    { nama: 'Dina Akmarina S., S.Kep', jabatan: 'Perawat Pelaksana', ruangan: 'Ruang Irna 5' },
-    { nama: 'Nony Kristianda, S.Kep', jabatan: 'Kepala Ruangan', ruangan: 'Ruang Irna 6' },
-    { nama: 'Hansa Nur Halina, S.Kep', jabatan: 'Perawat Pelaksana', ruangan: 'Ruang Irna 6' },
+    // Ruang Irna 3
+    { nama: 'Lisa Trimurti C.D., S.Kep', jabatan: '', ruangan: 'Ruang Irna 3' },
+    { nama: 'Dina Akmarina S., S.Kep', jabatan: '', ruangan: 'Ruang Irna 3' },
+    { nama: 'Nony Kristianda, S.Kep', jabatan: '', ruangan: 'Ruang Irna 3' },
+    { nama: 'Hansa Nur Halina, S.Kep', jabatan: '', ruangan: 'Ruang Irna 3' },
+
+    // Ruang Irna 4
+    { nama: 'Khemal Maulana, S.Kep', jabatan: '', ruangan: 'Ruang Irna 4' },
+    { nama: 'Norviasita Dwi Hariyani, S.Kep', jabatan: '', ruangan: 'Ruang Irna 4' },
+    { nama: 'Nabilla Syahwa Aryanto, S.Kep', jabatan: '', ruangan: 'Ruang Irna 4' },
+    { nama: 'Dina Akmarina S., S.Kep', jabatan: '', ruangan: 'Ruang Irna 4' },
+    { nama: 'Lisa Trimurti C.D., S.Kep', jabatan: '', ruangan: 'Ruang Irna 4' },
+
+    // Ruang Irna 5
+    { nama: 'Nony Kristianda, S.Kep', jabatan: '', ruangan: 'Ruang Irna 5' },
+    { nama: 'Hansa Nur Halina, S.Kep', jabatan: '', ruangan: 'Ruang Irna 5' },
+    { nama: 'Khemal Maulana, S.Kep', jabatan: '', ruangan: 'Ruang Irna 5' },
+    { nama: 'Norviasita Dwi Hariyani, S.Kep', jabatan: '', ruangan: 'Ruang Irna 5' },
+
+    // Ruang Irna 6
+    { nama: 'Nabilla Syahwa Aryanto, S.Kep', jabatan: '', ruangan: 'Ruang Irna 6' },
+    { nama: 'Lisa Trimurti C.D., S.Kep', jabatan: '', ruangan: 'Ruang Irna 6' },
+    { nama: 'Dina Akmarina S., S.Kep', jabatan: '', ruangan: 'Ruang Irna 6' },
+    { nama: 'Nony Kristianda, S.Kep', jabatan: '', ruangan: 'Ruang Irna 6' },
+    { nama: 'Hansa Nur Halina, S.Kep', jabatan: '', ruangan: 'Ruang Irna 6' },
   ]
 };
 
